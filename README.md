@@ -81,7 +81,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
-    <!-- Movie WebApp -->
+    <!-- My-Zootopia-api -->
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🎬 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
       <p>This Python project fetches real-time data about animals from the API Ninjas Animals API and generates a clean, informative HTML webpage with the animal’s characteristics.</p>
@@ -97,6 +97,23 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ---
 
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Movie-Project-SQL-HTML-API -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>🎬 <a href="https://github.com/abhisakh/Movie-Project-SQL-HTML-API" style="color:#FF4B4B; text-decoration:none;">Movie-Project-SQL-HTML-API</a></h3>
+      <p>A command-line and web-based movie database app built with Python, SQLite, and the OMDb API.</p>
+      <p><b>Tech:</b> Python · Flask · REST API · SQLite</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/643be494-5a26-4596-bd95-f03b94cfc247" 
+           alt="Movie-Project-SQL-HTML-API" 
+           style="width:890px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
+
+---
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- Best_Buy_2 -->
