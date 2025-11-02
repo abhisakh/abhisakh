@@ -1,8 +1,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&width=950&lines=Hi+there!+I'm+Dr.+Abhisakh+Sarma+👋;Experimental+Physicist+→+AI+%26+Data+Science+Developer;Building+Data-Driven+AI+Solutions+That+Make+an+Impact!&center=true&vCenter=true&loop=true&background=000000)](https://gi)
 
-
-
 ---
 
 ## 💡 About Me  
@@ -42,57 +40,114 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ## 🚀 Featured Projects  
 
-### 🧠 [Fake Finder WebApp (AI)](https://github.com/abhisakh/Fake_Finder_Webapp-AI)
-<p align="center">
-  <img width="1023" height="867" alt="Screenshot 2025-11-02 at 14 59 05" src="https://github.com/user-attachments/assets/b6d6650d-c92e-42ba-aad4-358047b768d4" />
-</p>
-AI-powered web app that detects misleading or fake content using NLP and ML.  
-**Tech:** Python · Flask · OpenAI API · Scikit-learn  
+<!-- Projects Section -->
+
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Fake Finder WebApp -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>🧠 <a href="https://github.com/abhisakh/Fake_Finder_Webapp-AI" style="color:#39FF14; text-decoration:none;">Fake Finder WebApp (AI)</a></h3>
+      <p>AI-powered web app that detects misleading or fake content using NLP and ML.</p>
+      <p><b>Tech:</b> Python · Flask · OpenAI API · Scikit-learn</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/b6d6650d-c92e-42ba-aad4-358047b768d4" 
+           alt="Fake Finder WebApp" 
+           style="width:370px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎬 [Movie WebApp (AI)](https://github.com/abhisakh/MovieWebApp-AI)
-<p align="center">
-  <img width="1704" height="1056" alt="Screenshot 2025-11-01 at 23 35 45" src="https://github.com/user-attachments/assets/4c560462-459a-45ac-b669-ff64e8f465ba" />
-</p>
-Web-based movie recommender using content-based filtering and external APIs.  
-**Tech:** Python · Streamlit · TMDB API · Pandas  
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Movie WebApp -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>🎬 <a href="https://github.com/abhisakh/MovieWebApp-AI" style="color:#FF4B4B; text-decoration:none;">Movie WebApp (AI)</a></h3>
+      <p>Web-based movie recommender using content-based filtering and external APIs.</p>
+      <p><b>Tech:</b> Python · Streamlit · TMDB API · Pandas</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/4c560462-459a-45ac-b669-ff64e8f465ba" 
+           alt="Movie WebApp" 
+           style="width:365px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐾 [My-Zootopia API](https://github.com/abhisakh/My-Zootopia-api)
-<p align="center">
-  <img width="1509" height="847" alt="Screenshot 2025-11-01 at 17 55 01" src="https://github.com/user-attachments/assets/d7de16d8-6521-4669-ab82-518e26f46720" />
-</p>
-RESTful API backend managing animal data for a virtual zoo.  
-**Tech:** Python · Flask · REST API · JSON  
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Movie WebApp -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>🎬 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
+      <p>Restful API backend managing animal data for a virtual zoo.............................................</p>
+      <p><b>Tech:</b> Python · Flask · REST API · JSON</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/d7de16d8-6521-4669-ab82-518e26f46720" 
+           alt="My-Zootopia API" 
+           style="width:415px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💰 [Expense Tracker](https://github.com/abhisakh/Expense_tracker)
-<p align="center">
-  <img width="807" height="1474" alt="Screenshot 2025-10-07 at 22 45 26" src="https://github.com/user-attachments/assets/af3d0afa-afc5-4df9-a29a-f023c6818e27" />
-</p>
-Track and visualize personal spending patterns through Python-based analytics.  
-**Tech:** Python · Pandas · Matplotlib · SQLite  
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Expense Tracker -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>💰 <a href="https://github.com/abhisakh/Expense_tracker" style="color:#00CED1; text-decoration:none;">Expense Tracker</a></h3>
+      <p>Track and visualize personal spending patterns through Python-based analytics.</p>
+      <p><b>Tech:</b> Python · Pandas · Matplotlib · SQLite</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/d6af8a94-87d1-4291-8ba8-0ed9a712a8fe" 
+           alt="Expense Tracker" 
+           style="width:380px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ☁️ [SKY SQL 2](https://github.com/abhisakh/SKY_SQL_2)
-<p align="center">
-  <img width="1142" height="616" alt="Screenshot 2025-11-01 at 20 02 03" src="https://github.com/user-attachments/assets/e28c29c6-efe0-46a5-b448-b1c205031bbf" />
-</p>
-SQL data management project showcasing query optimization and structured data design.  
-**Tech:** SQL · MySQL · Data Modeling  
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- SKY SQL 2 -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>☁️ <a href="https://github.com/abhisakh/SKY_SQL_2" style="color:#7FFFD4; text-decoration:none;">SKY SQL 2</a></h3>
+      <p>SQL data management project showcasing query optimization and structured data design.</p>
+      <p><b>Tech:</b> SQL · MySQL · Data Modeling</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/e28c29c6-efe0-46a5-b448-b1c205031bbf" 
+           alt="SKY SQL 2" 
+           style="width:450px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ❄️ [Snowman Meltdown](https://github.com/abhisakh/Snowman-Meltdown)
-<p align="center">
-  <img width="1060" height="674" alt="Screenshot 2025-11-01 at 11 27 37" src="https://github.com/user-attachments/assets/e3adb0d0-ccbe-4453-a630-15eeb2baf44b" />
-</p>
-Creative Python simulation exploring melting dynamics — where physics meets fun coding.  
-**Tech:** Python · Simulation · Visualization  
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Snowman Meltdown -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>❄️ <a href="https://github.com/abhisakh/Snowman-Meltdown" style="color:#87CEFA; text-decoration:none;">Snowman Meltdown</a></h3>
+      <p>Creative Python simulation exploring melting dynamics — where physics meets fun coding.</p>
+      <p><b>Tech:</b> Python · Simulation · Visualization</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/e3adb0d0-ccbe-4453-a630-15eeb2baf44b" 
+           alt="Snowman Meltdown" 
+           style="width:450px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
