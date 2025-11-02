@@ -47,13 +47,13 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <!-- Fake Finder WebApp -->
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🧠 <a href="https://github.com/abhisakh/Fake_Finder_Webapp-AI" style="color:#39FF14; text-decoration:none;">Fake Finder WebApp (AI)</a></h3>
-      <p>AI-powered web app that detects misleading or fake content using NLP and ML.</p>
+      <p>Fake Finder challenges players to distinguish true statements from AI-generated fake ones, based on Wikipedia articles using NLP.</p>
       <p><b>Tech:</b> Python · Flask · OpenAI API · Scikit-learn</p>
     </td>
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/b6d6650d-c92e-42ba-aad4-358047b768d4" 
            alt="Fake Finder WebApp" 
-           style="width:370px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:630px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -65,13 +65,13 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <!-- Movie WebApp -->
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🎬 <a href="https://github.com/abhisakh/MovieWebApp-AI" style="color:#FF4B4B; text-decoration:none;">Movie WebApp (AI)</a></h3>
-      <p>Web-based movie recommender using content-based filtering and external APIs.</p>
+      <p>MovieWebApp is a Flask-based web application that allows users to create personal movie collections. Users can add, update, and delete movies, fetch details from the OMDb API, and track     ratings.</p>
       <p><b>Tech:</b> Python · Streamlit · TMDB API · Pandas</p>
     </td>
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/4c560462-459a-45ac-b669-ff64e8f465ba" 
            alt="Movie WebApp" 
-           style="width:365px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:1000px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -83,13 +83,31 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <!-- Movie WebApp -->
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🎬 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
-      <p>Restful API backend managing animal data for a virtual zoo.............................................</p>
+      <p>This Python project fetches real-time data about animals from the API Ninjas Animals API and generates a clean, informative HTML webpage with the animal’s characteristics.</p>
       <p><b>Tech:</b> Python · Flask · REST API · JSON</p>
     </td>
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/d7de16d8-6521-4669-ab82-518e26f46720" 
            alt="My-Zootopia API" 
-           style="width:415px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:890px; height:auto; border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
+
+---
+
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr>
+    <!-- Best_Buy_2 -->
+    <td style="padding:25px; vertical-align: top; width:50%;">
+      <h3>🛍️✨ <a href="https://github.com/abhisakh/Best_Buy_2" style="color:#00CED1; text-decoration:none;">Best_Buy_2</a></h3>
+      <p>This Python project simulates a store management system that allows you to browse products, manage stock, and place orders — all through a colorful, interactive command-line interface.This project demonstrates clean **Object-Oriented Programming (OOP)** principles, strong **error handling**, and an intuitive **user experience** in Python.</p>
+      <p><b>Tech:</b> Python · OOP · SQLite</p>
+    </td>
+    <td style="padding:15px; text-align:center; width:50%;">
+      <img src="https://github.com/user-attachments/assets/96012db0-0b05-4ba9-992e-2a7e650f7da8" 
+           alt="Best_Buy_2" 
+           style="width:1880px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -107,7 +125,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/d6af8a94-87d1-4291-8ba8-0ed9a712a8fe" 
            alt="Expense Tracker" 
-           style="width:380px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:370px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -166,7 +184,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ## 🌐 Connect with Me  
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [abhisakh@gmail.com](mailto:abhisakh@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/dr-abhisakh-sarma](https://www.linkedin.com/in/dr-abhisakh-sarma)  
 🧬 **ORCID:** [0000-0002-0785-8902](https://orcid.org/0000-0002-0785-8902)  
 
