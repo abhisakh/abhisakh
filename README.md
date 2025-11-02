@@ -1,5 +1,6 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0B3D91&width=900&lines=Hi+there!+I'm+Dr.+Abhisakh+Sarma+👋;Experimental+Physicist+→+AI+%26+Data+Science+Developer;Building+Data-Driven+AI+Solutions+That+Make+an+Impact!&center=true&vCenter=true&loop=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&width=950&lines=Hi+there!+I'm+Dr.+Abhisakh+Sarma+👋;Experimental+Physicist+→+AI+%26+Data+Science+Developer;Building+Data-Driven+AI+Solutions+That+Make+an+Impact!&center=true&vCenter=true&loop=true&background=000000)](https://gi)
+
 
 
 ---
