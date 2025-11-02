@@ -182,16 +182,24 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ---
 
-## 🌐 Connect with Me  
+## 📫 Connect with Me  
 
-📧 **Email:** [abhisakh@gmail.com](mailto:abhisakh@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/dr-abhisakh-sarma](https://www.linkedin.com/in/dr-abhisakh-sarma)  
-🧬 **ORCID:** [0000-0002-0785-8902](https://orcid.org/0000-0002-0785-8902)  
+<p align="center">
+  <a href="mailto:abhisakh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/dr-abhisakh-sarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://orcid.org/0000-0002-0785-8902"><img src="https://img.shields.io/badge/ORCID-00A0E3?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://github.com/abhisakh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisakh&label=Profile%20Views&color=0e75b6&style=flat" alt="abhisakh" />
+  <img src="https://komarev.com/ghpvc/?username=abhisakh&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhisakh?label=Followers&style=flat-square&color=39FF14" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abhisakh?style=flat-square&color=FF4B4B" alt="Stars" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-👁️%20Dynamic-FF6F00?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 ---
