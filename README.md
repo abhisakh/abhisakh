@@ -42,9 +42,14 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 <!-- Projects Section -->
 
+<!-- 🧠 Fake Finder WebApp Banner -->
+<!-- Fake Finder WebApp -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&width=1000&lines=🧠+Fake+Finder+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Fake_Finder_Webapp-AI)
+
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- Fake Finder WebApp -->
+    <!-- 🧠 Fake Finder WebApp Banner -->
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🧠 <a href="https://github.com/abhisakh/Fake_Finder_Webapp-AI" style="color:#39FF14; text-decoration:none;">Fake Finder WebApp (AI)</a></h3>
       <p>Fake Finder challenges players to distinguish true statements from AI-generated fake ones, based on Wikipedia articles using NLP.</p>
@@ -59,6 +64,10 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
+
+<!-- Movie WebApp -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4B4B&width=1000&lines=🎬+Movie+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/MovieWebApp-AI)
+
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
@@ -79,11 +88,15 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ---
 
+<!-- My-Zootopia API -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEEB&width=1000&lines=🐾+My-Zootopia+API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/My-Zootopia-api)
+
+
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- My-Zootopia-api -->
     <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🎬 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
+      <h3>🐾 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
       <p>This Python project fetches real-time data about animals from the API Ninjas Animals API and generates a clean, informative HTML webpage with the animal’s characteristics.</p>
       <p><b>Tech:</b> Python · Flask · REST API · JSON</p>
     </td>
@@ -96,6 +109,12 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
+
+
+
+<!-- Movie-Project-SQL-HTML-API -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🍿🎥+Movie-Project-SQL-HTML-API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_tracker)
+
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
@@ -114,6 +133,12 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
+
+
+<!-- Best_Buy_2 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🛍️✨+Best_Buy_2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Best_Buy_2)
+
+
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- Best_Buy_2 -->
@@ -131,6 +156,10 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
+
+<!-- Expense Tracker -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=💰+Expense_Tracker&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_Tracker)
+
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
@@ -150,6 +179,11 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ---
 
+
+<!-- SKY SQL 2 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=☁️+✈️+SKY+SQL+2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/SKY_SQL_2)
+
+
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- SKY SQL 2 -->
@@ -167,6 +201,10 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
+
+
+<!-- Snowman Meltdown -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEFA&width=1000&lines=❄️+Snowman+Meltdown&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Snowman-Meltdown)
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
