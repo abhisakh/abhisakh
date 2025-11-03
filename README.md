@@ -66,13 +66,13 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <td style="padding:25px; vertical-align: top; width:50%;">
       <h3>🎬 <a href="https://github.com/abhisakh/MovieWebApp-AI" style="color:#FF4B4B; text-decoration:none;">Movie WebApp (AI)</a></h3>
       <h4> <a href="https://abhisakh.pythonanywhere.com/" style="color:#FF4B4B; text-decoration:none;">Link to the online webpage(click hear)</a></h4>
-      <p>MovieWebApp is a Flask-based web application that allows users to create personal movie collections. Users can add, update, and delete movies, fetch details from the OMDb API, and track     ratings.</p>
+      <p>MovieWebApp is a Flask-based web application that allows users to create personal movie collections. Users can add, update, and delete movies, fetch details from the OMDb API, and track     ratings. User can ask for suggestions from AI</p>
       <p><b>Tech:</b> Python · Streamlit · TMDB API · Pandas</p>
     </td>
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/4c560462-459a-45ac-b669-ff64e8f465ba" 
            alt="Movie WebApp" 
-           style="width:1000px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:1220px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -108,7 +108,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/643be494-5a26-4596-bd95-f03b94cfc247" 
            alt="Movie-Project-SQL-HTML-API" 
-           style="width:890px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:1090px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/96012db0-0b05-4ba9-992e-2a7e650f7da8" 
            alt="Best_Buy_2" 
-           style="width:1880px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:1990px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <td style="padding:15px; text-align:center; width:50%;">
       <img src="https://github.com/user-attachments/assets/d6af8a94-87d1-4291-8ba8-0ed9a712a8fe" 
            alt="Expense Tracker" 
-           style="width:370px; height:auto; border-radius:12px; object-fit:cover;">
+           style="width:390px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
