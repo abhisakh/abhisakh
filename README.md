@@ -113,7 +113,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 
 <!-- Movie-Project-SQL-HTML-API -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🍿🎥+Movie-Project-SQL-HTML-API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_tracker)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🍿🎥+Movie+Project+SQL+HTML+API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Movie-Project-SQL-HTML-API)
 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
@@ -136,7 +136,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 
 <!-- Best_Buy_2 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🛍️✨+Best_Buy_2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Best_Buy_2)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🛍️✨+Best+Buy+2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Best_Buy_2)
 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
@@ -158,7 +158,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ---
 
 <!-- Expense Tracker -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=💰+Expense_Tracker&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_Tracker)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=💰+Expense+Tracker&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_Tracker)
 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
