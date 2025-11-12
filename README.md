@@ -244,11 +244,23 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:abhisakh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/dr-abhisakh-sarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://orcid.org/0000-0002-0785-8902"><img src="https://img.shields.io/badge/ORCID-00A0E3?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="https://github.com/abhisakh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:abhisakh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/dr-abhisakh-sarma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0000-0002-0785-8902">
+    <img src="https://img.shields.io/badge/ORCID-00A0E3?style=for-the-badge&logo=orcid&logoColor=white">
+  </a>
+  <a href="https://github.com/abhisakh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://advance-portfolio-abhisakh-sarma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
