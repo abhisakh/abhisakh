@@ -236,8 +236,9 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisakh&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=abhisakh&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
 
 ---
 
