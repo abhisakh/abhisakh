@@ -231,13 +231,18 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhisakh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisakh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-vercel-five-iota.vercel.app/api?username=abhisakh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-vercel-five-iota.vercel.app/api/top-langs/?username=abhisakh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abhisakh&theme=tokyonight&hide_border=true" height="150" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=abhisakh&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
 
 
 ---
