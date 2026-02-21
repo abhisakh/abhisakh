@@ -45,7 +45,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 <!-- Projects Section -->
 
-## 🚀 Featured Projects  
+---
 
 <!-- 🧪 ResearchLLM MultiAgent Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+ResearchLLM+MultiAgent+LangGraph+RAGGraph+Framework+(AI%2FResearch)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph)
@@ -97,8 +97,6 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
   </tr>
 </table>
-
----
 
 ---
 
