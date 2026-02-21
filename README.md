@@ -50,52 +50,39 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <!-- 🧪 ResearchLLM MultiAgent Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+ResearchLLM+MultiAgent+LangGraph+RAGGraph+Framework+(AI%2FResearch)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph)
 
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
-  <tr>
-    
-    <!-- 📘 Project Info -->
-    <td style="padding:25px; vertical-align: top; width:50%;">
-      
-      <h3>
-        🤖 
-        <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" 
-           style="color:#39FF14; text-decoration:none;">
-          ResearchLLM MultiAgent LangGraph RAGGraph
-        </a>
-      </h3>
+<table style="max-width:900px;background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;">
+<tr>
 
-      <p>
-        An advanced multi-agent research automation framework that orchestrates 
-        Retrieval-Augmented Generation (RAG) pipelines using LangGraph. 
-        Designed to generate evidence-grounded research insights with 
-        deterministic multi-agent reasoning.
-      </p>
+<td style="padding:25px;vertical-align:top;width:50%;">
 
-      <p>
-        <b>Tech:</b> 
-        Python · FastAPI · LangGraph · FAISS · OpenAI API · Streamlit
-      </p>
+<h3>🤖 <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14;text-decoration:none;">
+ResearchLLM MultiAgent LangGraph RAGGraph
+</a></h3>
 
-      <ul>
-        <li>Multi-agent workflow (Planner · Retriever · Evaluator · Synthesizer)</li>
-        <li>Evidence-grounded outputs with reduced hallucination</li>
-        <li>Modular & scalable research orchestration architecture</li>
-      </ul>
+<p>
+An advanced multi-agent research automation framework that orchestrates
+Retrieval-Augmented Generation (RAG) pipelines using LangGraph.
+Designed to generate evidence-grounded research insights with
+deterministic multi-agent reasoning.
+</p>
 
-    </td>
+<p><b>Tech:</b> Python · FastAPI · LangGraph · FAISS · OpenAI API · Streamlit</p>
 
-    <!-- 🖼️ Project Image -->
-    <td style="padding:15px; text-align:center; width:50%;">
-      
-      <img 
-        src="https://github.com/user-attachments/assets/f6a3382e-c8f2-4e25-bff6-5182a4e7f46a"
-        alt="ResearchLLM MultiAgent System"
-        style="width:630px; height:auto; border-radius:12px; object-fit:cover;"
-      />
+<ul>
+<li>Multi-agent workflow (Planner · Retriever · Evaluator · Synthesizer)</li>
+<li>Evidence-grounded outputs with reduced hallucination</li>
+<li>Modular & scalable research orchestration architecture</li>
+</ul>
 
-    </td>
+</td>
 
-  </tr>
+<td style="padding:15px;text-align:center;width:50%;">
+<img src="https://github.com/user-attachments/assets/f6a3382e-c8f2-4e25-bff6-5182a4e7f46a"
+alt="ResearchLLM MultiAgent System"
+style="width:630px;height:auto;border-radius:12px;object-fit:cover;" />
+</td>
+
+</tr>
 </table>
 
 ---
