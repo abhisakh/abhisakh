@@ -79,7 +79,7 @@ deterministic multi-agent reasoning.
 <td style="padding:15px;text-align:center;width:50%;">
 <img src="https://github.com/user-attachments/assets/f6a3382e-c8f2-4e25-bff6-5182a4e7f46a"
 alt="ResearchLLM MultiAgent System"
-style="width:800px;height:auto;border-radius:12px;object-fit:cover;" />
+style="width:100%;height:auto;border-radius:12px;object-fit:cover;" />
 </td>
 
 </tr>
