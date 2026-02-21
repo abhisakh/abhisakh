@@ -91,7 +91,7 @@ style="width:930px;height:auto;border-radius:12px;object-fit:cover;" />
 <!-- Fake Finder WebApp -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&width=1000&lines=🧠+Fake+Finder+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Fake_Finder_Webapp-AI)
 
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+<table style="max-width: 900px;height:500px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
     <!-- Fake Finder WebApp -->
     <!-- 🧠 Fake Finder WebApp Banner -->
