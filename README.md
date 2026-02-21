@@ -50,7 +50,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <!-- 🧪 ResearchLLM MultiAgent Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+ResearchLLM+MultiAgent+LangGraph+RAGGraph+Framework+(AI%2FResearch)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph)
 
-<table style="max-width:900px;height:600px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;">
+<table style="max-width:900px;height:550px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;">
 <tr>
 
 <td style="padding:25px;vertical-align:top;width:50%;">
