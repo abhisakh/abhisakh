@@ -47,7 +47,25 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 <!-- 🧪 ResearchLLM: Multi-Agent RAG System Banner -->
 
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;"> <tr> <!-- ResearchLLM Project Details --> <td style="padding:25px; vertical-align: top; width:50%;"> <h3>🤖 <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14; text-decoration:none;">ResearchLLM MultiAgent LangGraph RAGGraph</a></h3> <p>An advanced multi-agent research framework that orchestrates Retrieval-Augmented Generation (RAG) workflows using LangGraph to automate scientific literature discovery with evidence-grounded outputs. :contentReference[oaicite:1]{index=1}</p> <p><b>Tech:</b> Python · FastAPI · LangGraph · FAISS Vector Search · Multi-Agent RAG Architecture · Streamlit (UI)</p> <p><b>Highlights:</b> <ul> <li>Deterministic, zero-hallucination research synthesis.</li> <li>Multi-agent orchestration — Intent, Planning, Retrieval, Eval agents.</li> <li>Evidence-based extraction from peer-reviewed literature only.</li> </ul> </p> </td> <td style="padding:15px; text-align:center; width:50%;"> <img src="https://raw.githubusercontent.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph/main/frontend/ai.jpg" alt="ResearchLLM MultiAgent" style="width:630px; height:auto; border-radius:12px; object-fit:cover;"> </td> </tr> </table>
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
+  <tr> 
+    <!-- ResearchLLM Project Details --> 
+    <td style="padding:25px; vertical-align: top; width:50%;"> 
+      <h3>🤖 <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14; text-decoration:none;">ResearchLLM MultiAgent LangGraph                RAGGraph</a></h3> 
+      <p>An advanced multi-agent research framework that orchestrates Retrieval-Augmented Generation (RAG) workflows using LangGraph to automate scientific literature                   discovery with evidence-grounded outputs. :contentReference[oaicite:1]{index=1}</p> 
+      <p>
+        <b>Tech:</b> 
+        Python · FastAPI · LangGraph · FAISS Vector Search · Multi-Agent RAG Architecture · Streamlit (UI)</p> 
+      <p><b>Highlights:</b> 
+      <ul> 
+        <li>Deterministic, zero-hallucination research synthesis.</li> 
+        <li>Multi-agent orchestration — Intent, Planning, Retrieval, Eval agents.</li> 
+        <li>Evidence-based extraction from peer-reviewed literature only.</li> 
+      </ul> 
+</p> 
+</td> 
+  <td style="padding:15px; text-align:center; width:50%;"> <img src="<img width="687" height="636" alt="Screenshot 2026-02-21 at 11 30 14" src="https://github.com/user-attachments/assets/b95d5ffc-01ba-48b4-a552-bde98897040e" />
+" alt="ResearchLLM MultiAgent" style="width:630px; height:auto; border-radius:12px; object-fit:cover;"> </td> </tr> </table>
 
 ---
 
