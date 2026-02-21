@@ -45,6 +45,12 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 <!-- Projects Section -->
 
+<!-- 🧪 ResearchLLM: Multi-Agent RAG System Banner -->
+
+<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;"> <tr> <!-- ResearchLLM Project Details --> <td style="padding:25px; vertical-align: top; width:50%;"> <h3>🤖 <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14; text-decoration:none;">ResearchLLM MultiAgent LangGraph RAGGraph</a></h3> <p>An advanced multi-agent research framework that orchestrates Retrieval-Augmented Generation (RAG) workflows using LangGraph to automate scientific literature discovery with evidence-grounded outputs. :contentReference[oaicite:1]{index=1}</p> <p><b>Tech:</b> Python · FastAPI · LangGraph · FAISS Vector Search · Multi-Agent RAG Architecture · Streamlit (UI)</p> <p><b>Highlights:</b> <ul> <li>Deterministic, zero-hallucination research synthesis.</li> <li>Multi-agent orchestration — Intent, Planning, Retrieval, Eval agents.</li> <li>Evidence-based extraction from peer-reviewed literature only.</li> </ul> </p> </td> <td style="padding:15px; text-align:center; width:50%;"> <img src="https://raw.githubusercontent.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph/main/frontend/ai.jpg" alt="ResearchLLM MultiAgent" style="width:630px; height:auto; border-radius:12px; object-fit:cover;"> </td> </tr> </table>
+
+---
+
 <!-- 🧠 Fake Finder WebApp Banner -->
 <!-- Fake Finder WebApp -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&width=1000&lines=🧠+Fake+Finder+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Fake_Finder_Webapp-AI)
