@@ -38,7 +38,6 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-<img width="447" height="501" alt="Screenshot 2026-04-18 at 10 51 01" src="https://github.com/user-attachments/assets/61f536b7-02f3-4960-bebc-4d2229d86ee9" />
 
 
 ---
