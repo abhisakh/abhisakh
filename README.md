@@ -38,7 +38,8 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-<img width="825" height="491" alt="Screenshot 2026-04-18 at 10 41 41" src="https://github.com/user-attachments/assets/46f183ed-890b-4858-9f1b-43eb38e6680f" />
+<img width="447" height="501" alt="Screenshot 2026-04-18 at 10 51 01" src="https://github.com/user-attachments/assets/61f536b7-02f3-4960-bebc-4d2229d86ee9" />
+
 
 ---
 
@@ -78,7 +79,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
   <div align="center" style="margin-top:15px;">
     <a href="https://github.com/abhisakh/HRChat.git">
-      <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://github.com/user-attachments/assets/61f536b7-02f3-4960-bebc-4d2229d86ee9" />
     </a>
   </div>
 
