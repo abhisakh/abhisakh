@@ -51,7 +51,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <table style="width:100%;max-width:900px;height:550px;background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;table-layout:fixed;">
 <tr>
 
-<td style="padding:25px;vertical-align:top;width:80%;">
+<td style="padding:25px;vertical-align:top;width:70%;word-wrap:break-word;overflow-wrap:break-word;">
 
   <h3>
     🤖 
