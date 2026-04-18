@@ -45,7 +45,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 ## 🚀 Featured Projects  
 
 <!-- Projects Section -->
-
+<table style="max-width:900px;height:550px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;"> <tr>
 
 <td style="padding:25px;vertical-align:top;width:55%;">
 
