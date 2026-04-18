@@ -47,68 +47,48 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <!-- Projects Section -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+HRChat_LLM+—+Context-Aware+HR+Assistant+(RBAC+%2B+Hybrid+AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/HRChat.git)
+<td style="padding:25px;vertical-align:top;width:55%;">
 
-<table style="max-width:900px;height:550px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;">
-  <tr>
+  <h3>
+    🤖 
+    <a href="https://github.com/abhisakh/HRChat.git" style="color:#39FF14;text-decoration:none;">
+      HRChat_LLM — Context-Aware HR Chatbot with RBAC
+    </a>
+  </h3>
 
-    <td style="padding:25px;vertical-align:top;width:55%;">
+  <p>
+    An intelligent, multi-user HR assistant built with <b>Hybrid AI (SQL + Vector Search)</b> that delivers instant, personalised answers while strictly enforcing <b>role-based access control</b>. Every interaction is context-aware, ensuring continuity across conversations and zero data leakage between users.
+  </p>
 
-      <h3>
-        🤖 
-        <a href="https://github.com/abhisakh/HRChat.git" style="color:#39FF14;text-decoration:none;">
-          HRChat_LLM — Context-Aware HR Chatbot with RBAC
-        </a>
-      </h3>
+  <p>
+    Designed to eliminate repetitive HR queries like PTO balances, policies, and reporting structures, HRChat acts as a real-time, always-available assistant — routing each query to the correct data source and generating natural-language responses within seconds.
+  </p>
 
-      <p>
-        An intelligent, multi-user HR assistant built with <b>Hybrid AI (SQL + Vector Search)</b> that delivers instant, personalised answers while strictly enforcing <b>role-based access control</b>. Every interaction is context-aware, ensuring continuity across conversations and zero data leakage between users.
-      </p>
+  <p>
+    <b>Tech Stack:</b> Python · FastAPI · LangGraph · OpenAI · Pinecone · SQLite · React · Vite
+  </p>
 
-      <p>
-        Designed to eliminate repetitive HR queries like PTO balances, policies, and reporting structures, HRChat acts as a real-time, always-available assistant — routing each query to the correct data source and generating natural-language responses within seconds.
-      </p>
+  <ul>
+    <li><b>Hybrid Intelligence:</b> Combines structured (SQL) and unstructured (PDF embeddings) retrieval.</li>
+    <li><b>Context Memory:</b> Persistent per-user conversation state via LangGraph.</li>
+    <li><b>RBAC Security:</b> Strict role-based data isolation across users.</li>
+    <li><b>Agent Routing:</b> Graph-based decision flow for tool selection.</li>
+    <li><b>Audit Logs:</b> Full traceability of responses and decisions.</li>
+  </ul>
 
-      <p>
-        <b>Tech Stack:</b> Python · FastAPI · LangGraph · OpenAI · Pinecone · SQLite · React · Vite
-      </p>
+  <div align="center" style="margin-top:15px;">
+    <a href="https://github.com/abhisakh/HRChat.git">
+      <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
 
-      <ul>
-        <li>
-          <b>Hybrid Intelligence:</b> Combines structured (SQL) and unstructured (PDF embeddings) retrieval.
-        </li>
-        <li>
-          <b>Context Memory:</b> Persistent per-user conversation state via LangGraph.
-        </li>
-        <li>
-          <b>RBAC Security:</b> Strict role-based data isolation across users.
-        </li>
-        <li>
-          <b>Agent Routing:</b> Graph-based decision flow for tool selection.
-        </li>
-        <li>
-          <b>Audit Logs:</b> Full traceability of responses and decisions.
-        </li>
-      </ul>
+</td>
 
-      <div align="center" style="margin-top:15px;">
-        <a href="https://github.com/abhisakh/HRChat.git">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-
-    </td>
-
-    <td style="padding:15px;text-align:center;width:45%;">
-      <img
-        src="https://github.com/user-attachments/assets/46f183ed-890b-4858-9f1b-43eb38e6680f"
-        alt="HRChat Demo"
-        style="width:100%;height:auto;border-radius:12px;object-fit:contain; border: 1px solid #333;"
-      />
-    </td>
-
-  </tr>
-</table>
+<td style="padding:15px;text-align:center;width:45%;">
+  <img src="https://github.com/user-attachments/assets/46f183ed-890b-4858-9f1b-43eb38e6680f"
+       alt="HRChat Demo"
+       style="width:100%;height:auto;border-radius:12px;object-fit:contain; border: 1px solid #333;" />
+</td>
 
 ---
 
