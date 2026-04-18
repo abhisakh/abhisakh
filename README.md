@@ -90,7 +90,58 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+Advanced+Multi-Agent+Research+Framework+(AI+%2B+QA+Automation)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph)
 
-<table style="max-width:900px;height:550px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;"> <tr> <td style="padding:25px;vertical-align:top;width:55%;"> <h3>🤖 <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14;text-decoration:none;"> Advanced Multi-Agent Research Framework </a></h3> <p> An enterprise-grade research engine utilizing <b>Agentic Orchestration</b> to eliminate hallucinations. By bridging scientific data rigor with <b>LangGraph workflows</b>, it ensures every claim is citation-backed, verifiable, and audit-ready for regulated industries. </p> <p><b>Tech Stack:</b> Python · LangGraph · FAISS · Pydantic · Docker · GitHub Actions</p> <ul> <li><b>Deterministic Reasoning:</b> Multi-agent loop (Planner · Retriever · Evaluator · Synthesizer).</li> <li><b>Quality Assurance:</b> Dedicated "Evaluation Agent" audits outputs against source metadata.</li> <li><b>Traceability:</b> Full debug console for real-time visualization of agent logic and tool usage.</li> </ul> <div align="center" style="margin-top:15px;"> <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph"> <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> <td style="padding:15px;text-align:center;width:45%;"> <img src="https://github.com/user-attachments/assets/f6a3382e-c8f2-4e25-bff6-5182a4e7f46a" alt="ResearchLLM MultiAgent System" style="width:100%;height:auto;border-radius:12px;object-fit:contain; border: 1px solid #333;" /> </td> </tr> </table>
+<table style="max-width:900px;height:550px; background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;">
+  <tr>
+
+    <td style="padding:25px;vertical-align:top;width:55%;">
+
+      <h3>
+        🤖 
+        <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph" style="color:#39FF14;text-decoration:none;">
+          Advanced Multi-Agent Research Framework
+        </a>
+      </h3>
+
+      <p>
+        An enterprise-grade research engine utilizing <b>Agentic Orchestration</b> to eliminate hallucinations. 
+        By bridging scientific data rigor with <b>LangGraph workflows</b>, it ensures every claim is 
+        citation-backed, verifiable, and audit-ready for regulated industries.
+      </p>
+
+      <p>
+        <b>Tech Stack:</b> Python · LangGraph · FAISS · Pydantic · Docker · GitHub Actions
+      </p>
+
+      <ul>
+        <li>
+          <b>Deterministic Reasoning:</b> Multi-agent loop (Planner · Retriever · Evaluator · Synthesizer).
+        </li>
+        <li>
+          <b>Quality Assurance:</b> Dedicated "Evaluation Agent" audits outputs against source metadata.
+        </li>
+        <li>
+          <b>Traceability:</b> Full debug console for real-time visualization of agent logic and tool usage.
+        </li>
+      </ul>
+
+      <div align="center" style="margin-top:15px;">
+        <a href="https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+
+    </td>
+
+    <td style="padding:15px;text-align:center;width:45%;">
+      <img 
+        src="https://github.com/user-attachments/assets/f6a3382e-c8f2-4e25-bff6-5182a4e7f46a"
+        alt="ResearchLLM MultiAgent System"
+        style="width:100%;height:auto;border-radius:12px;object-fit:contain; border: 1px solid #333;"
+      />
+    </td>
+
+  </tr>
+</table>
 
 ---
 
