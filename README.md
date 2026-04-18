@@ -53,28 +53,24 @@ I love exploring the intersection of **science, data, and intelligent systems** 
   <h3>
     🤖 
     <a href="https://github.com/abhisakh/HRChat.git" style="color:#39FF14;text-decoration:none;">
-      HRChat_LLM — Context-Aware HR Chatbot with RBAC
+      HRChat_LLM — HR Chatbot with RBAC
     </a>
   </h3>
 
   <p>
-    An intelligent, multi-user HR assistant built with <b>Hybrid AI (SQL + Vector Search)</b> that delivers instant, personalised answers while strictly enforcing <b>role-based access control</b>. Every interaction is context-aware, ensuring continuity across conversations and zero data leakage between users.
+    Context-aware, multi-user HR assistant powered by <b>Hybrid AI (SQL + Vector Search)</b>.  
+    Delivers personalised answers with strict role-based access.
   </p>
 
   <p>
-    Designed to eliminate repetitive HR queries like PTO balances, policies, and reporting structures, HRChat acts as a real-time, always-available assistant — routing each query to the correct data source and generating natural-language responses within seconds.
-  </p>
-
-  <p>
-    <b>Tech Stack:</b> Python · FastAPI · LangGraph · OpenAI · Pinecone · SQLite · React · Vite
+    <b>Tech:</b> Python · FastAPI · LangGraph · OpenAI · Pinecone · React
   </p>
 
   <ul>
-    <li><b>Hybrid Intelligence:</b> Combines structured (SQL) and unstructured (PDF embeddings) retrieval.</li>
-    <li><b>Context Memory:</b> Persistent per-user conversation state via LangGraph.</li>
-    <li><b>RBAC Security:</b> Strict role-based data isolation across users.</li>
-    <li><b>Agent Routing:</b> Graph-based decision flow for tool selection.</li>
-    <li><b>Audit Logs:</b> Full traceability of responses and decisions.</li>
+    <li><b>Hybrid Retrieval:</b> SQL + Vector search</li>
+    <li><b>Memory:</b> Persistent user context</li>
+    <li><b>RBAC:</b> Secure data isolation</li>
+    <li><b>Agent Flow:</b> Dynamic query routing</li>
   </ul>
 
   <div align="center" style="margin-top:15px;">
