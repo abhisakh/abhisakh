@@ -58,7 +58,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
   <p>
     Context-aware, multi-user HR assistant powered by <b>Hybrid AI (SQL + Vector Search)</b>.  
-    Delivers personalised answers with strict role-based access.
+    Personalised answers with strict role-based access.
   </p>
 
   <p>
@@ -69,7 +69,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
     <li><b>Hybrid Retrieval:</b> SQL + Vector search</li>
     <li><b>Memory:</b> Persistent user context</li>
     <li><b>RBAC:</b> Secure data isolation</li>
-    <li><b>Agent Flow:</b> Dynamic query routing</li>
+    <li><b>Agent Flow:</b> Dynamic routing</li>
   </ul>
 
   <div align="center" style="margin-top:15px;">
