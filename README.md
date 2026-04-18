@@ -79,18 +79,18 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
   <div align="center" style="margin-top:15px;">
     <a href="https://github.com/abhisakh/HRChat.git">
-      <img src="https://github.com/user-attachments/assets/61f536b7-02f3-4960-bebc-4d2229d86ee9" />
+      <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
 
 </td>
 
 <td style="padding:15px;text-align:center;width:45%;">
-  <img src="https://github.com/user-attachments/assets/46f183ed-890b-4858-9f1b-43eb38e6680f"
+  <img src="https://github.com/user-attachments/assets/61f536b7-02f3-4960-bebc-4d2229d86ee9" 
        alt="HRChat Demo"
        style="width:100%;height:auto;border-radius:12px;object-fit:contain; border: 1px solid #333;" />
 </td>
-
+</tr> </table>
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+Advanced+Multi-Agent+Research+Framework+(AI+%2B+QA+Automation)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/ResearchLLM_MultiAgent_LangGraph_RagGraph)
