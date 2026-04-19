@@ -48,7 +48,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=39FF14&width=1000&lines=🤖+HRChat_LLM+—+HR+Chatbot+with+RBAC&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/HRChat.git)
 
-<table style="max-width:900px;height:550px;background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;table-layout:fixed;">
+<table style="max-width:1200px;height:550px;background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;table-layout:fixed;">
 <tr>
 
 <td style="padding:25px;vertical-align:top;width:52%;word-wrap:break-word;overflow-wrap:break-word;">
