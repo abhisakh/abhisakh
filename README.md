@@ -51,7 +51,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <table style="max-width:900px;height:550px;background:#1e1e1e;border-radius:15px;overflow:hidden;margin:20px auto;color:white;table-layout:fixed;">
 <tr>
 
-<td style="padding:25px;vertical-align:top;width:65%;word-wrap:break-word;overflow-wrap:break-word;">
+<td style="padding:25px;vertical-align:top;width:52%;word-wrap:break-word;overflow-wrap:break-word;">
 
   <h3>
     🤖 
@@ -84,7 +84,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 </td>
 
-<td style="padding:15px;text-align:center;width:35%;">
+<td style="padding:15px;text-align:center;width:48%;">
   <img src="https://github.com/user-attachments/assets/7d84c278-1649-498e-af41-c12d2391ffd2"
        alt="HRChat Demo"
        style="width:450px;height:auto;display:block;border-radius:12px;object-fit:contain;border:1px solid #333;" />
