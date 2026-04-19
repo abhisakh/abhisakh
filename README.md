@@ -87,7 +87,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 <td style="padding:15px;text-align:center;width:35%;">
   <img src="https://github.com/user-attachments/assets/7d84c278-1649-498e-af41-c12d2391ffd2"
        alt="HRChat Demo"
-       style="width:150px;height:auto;display:block;border-radius:12px;object-fit:contain;border:1px solid #333;" />
+       style="width:450px;height:auto;display:block;border-radius:12px;object-fit:contain;border:1px solid #333;" />
 </td>
 
 </tr>
