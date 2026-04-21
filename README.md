@@ -61,7 +61,7 @@ I love exploring the intersection of **science, data, and intelligent systems** 
   </h3>
 
   <p>
-    **Context-aware**, multi-user HR assistant powered by <b>Hybrid AI (SQL + Vector Search)</b>.  
+    <b>Context-aware</b>, multi-user HR assistant powered by <b>Hybrid AI (SQL + Vector Search)</b>.  
     Designed for enterprise HR systems with strict role-based access control and personalized conversational intelligence.
   </p>
 
